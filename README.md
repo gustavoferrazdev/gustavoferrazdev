@@ -17,4 +17,4 @@
 - Adquirir experiência profissional em TI
 
 ## Contato
-LinkedIn: seu-linkedin
+LinkedIn: linkedin.com/in/gustavoferrazti

@@ -1,16 +1,20 @@
-## Hi there 👋
+## Gustavo Ferraz
 
-<!--
-**gustavoferrazdev/gustavoferrazdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Tecnologia da Informação  
+🚀 Desenvolvendo projetos e aprimorando habilidades em programação e desenvolvimento de software  
+📚 Atualmente estudando lógica de programação, desenvolvimento web e Git/GitHub  
+🎯 Buscando oportunidade de estágio/aprendiz na área de tecnologia
 
-Here are some ideas to get you started:
+## Tecnologias e Ferramentas
+- HTML
+- CSS
+- JavaScript
+- Git e GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objetivos
+- Evoluir constantemente na área de tecnologia
+- Desenvolver projetos práticos
+- Adquirir experiência profissional em TI
+
+## Contato
+LinkedIn: seu-linkedin
